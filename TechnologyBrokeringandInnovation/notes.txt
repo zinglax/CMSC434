@@ -1,0 +1,62 @@
+Technology Brokering and Innovation in a Product Development Firm
+==============
+
+Read the first 10 pages "Technology Brokering and Innovation in a Product Development Firm" by Hargadon and Sutton from the Administrative Science Quarterly, Dec 1997. On campus, it can be found here: http://umaryland.worldcat.org/oclc/90307324 (Links to an external site.). You can download or print a PDF. You must read pgs 716-725, but I encourage you to read the rest of the article as it is very good. Please answer the following questions:
+
+1. What is a technology broker?
+
+2. What does it mean to say that Edison's laboratory filled a "structural hole"?
+
+3. What are the seven ways that the authors used to learn how IDEO innovates?
+
+4. What are the rules of an IDEO brainstorming session?
+
+5. What are the four steps of the technology brokering process?
+
+6. Choose a design from Table 1 that, to you, is a clever mixing of ideas from different industries. Do a little Google research and report what you uncover about how the current state-of-the-art product is designed.
+
+## 1. What is a technology broker?
+__Technology Brokering__: is to span multiple, otherwise disconnected industries to see how existing technologies could be used to create breakthrough innovations in other markets.
+- These are people who discovered bridges in emergent worlds and apply scientific concepts or processes to new situations or circumstances.
+
+## 2. Edisons Library filling Structural Hole
+__structural holes__:a gap in the flow of information between subgroups in a larger network
+- Edison's gap existed between industries where there was and was not knowledge about the newly emerging electromagnetic tech's.
+- Brokers who have come from one trade/technological breakthrough and transfer there skills to another. In Edisons case from the telephone industry to the Lighting, etc.
+
+### Wikipedia 
+The first examples of technology brokering can be found as early as 1876 with Thomas Edison in his Menlo Park laboratory. In six years, this lab procured over 400 patents.[4] Menlo Park laboratory was such a successful ‘invention factory’ because Thomas Edison had a firm belief in recombinant innovation. There were no inventions from Menlo Park that were truly invented from nothing
+
+## 3. Seven Ways authors used to learn how IDEO Innovates
+1. Tracking development Projects
+2. Semistructured interviews with designers and managers
+3. Informal Discussions
+4. Brainstorming Sessions
+5. Other Meetings
+6. Design Team Interviews
+7. Materials About The Organization 
+
+
+# Notes
+IDEO - product design firm
+
+## Edisons lab
+Social network theory suggests that Edison's laboratory
+could innovate routinely because it occupied a "structural
+hole" (Burt, 1992a, 1992b), a gap in the flow of information
+between subgroups in a larger network. For Edison, these
+gaps existed between industries where there was and was
+not knowledge about the newly emerging electromagnetic
+technologies. Actors filling these gaps are brokers who ben-
+efit by transferring resources from groups where they are
+plentiful to groups where they are dear (Marsden, 1982;
+Gould and Fernandez, 1989; Burt, 1992a; DiMaggio, 1992).
+Brokers have an advantage over competitors because "non-
+redundant contacts are linked only through the central
+player, [so brokers] are assured of being the first to see new
+opportunities created by the needs in one group that could
+be served by skills in another group" (Burt, 1992a: 70). Edi-
+son's laboratory acted as a broker of technological ideas be-
+cause it had connections to many industries, rather than be-
+ing central in one, and it linked industries that had few other
+ties (DiMaggio, 1992).
