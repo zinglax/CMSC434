@@ -53,6 +53,10 @@ become innovative solutions to current problems depends
 on how these potential solutions are shared within IDEO
 across designers and over time. 
 
+## 6. Choose a design from Table 1 that, to you, is a clever mixing of ideas from different industries. Do a little Google research and report what you uncover about how the current state-of-the-art product is designed.
+### DESIGN : Portable computer
+- Data Point: http://patents.com/us-7643272.html Patent for portable computer fastener. Assignee was LG Electronics Inc. (Seoul, KR)
+
 # Notes
 IDEO - product design firm
 
