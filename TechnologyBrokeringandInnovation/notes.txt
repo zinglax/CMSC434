@@ -55,7 +55,10 @@ across designers and over time.
 
 ## 6. Choose a design from Table 1 that, to you, is a clever mixing of ideas from different industries. Do a little Google research and report what you uncover about how the current state-of-the-art product is designed.
 ### DESIGN : Portable computer
+_Portable computer: Display fastened closed using bicycle spokes and existing display housing technologies_
+
 - Data Point: http://patents.com/us-7643272.html Patent for portable computer fastener. Assignee was LG Electronics Inc. (Seoul, KR)
+
 
 # Notes
 IDEO - product design firm
